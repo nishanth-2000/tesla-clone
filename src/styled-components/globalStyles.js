@@ -9,6 +9,11 @@ export const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+}
+
 @keyframes animateDown {
     0%,20%,50%,80%,100% {
         transform: translateY(0);
