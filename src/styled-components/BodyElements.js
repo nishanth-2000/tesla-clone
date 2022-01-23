@@ -32,7 +32,7 @@ export const ButtonGroup = styled.div`
 export const CustomButton = styled.div`
   color: #fff;
   background-color: #000;
-  height: 50px;
+  height: 45px;
   width: 250px;
   border-radius: 50px;
   display: flex;
@@ -40,12 +40,13 @@ export const CustomButton = styled.div`
   align-items: center;
   text-transform: uppercase;
   font-size: 12px;
-  opacity: 0.85;
+  font-weight: 600;
+  opacity: 0.75;
   cursor: pointer;
   margin: 10px;
 `;
 export const RightButton = styled(CustomButton)`
-  color: #000;
+  color: #393c41;
   background-color: #fff;
 `;
 
@@ -53,7 +54,6 @@ export const DownArrow = styled.img`
   height: 40px;
   animation: animateDown infinite 1.5s;
   overflow-x: hidden;
-  cursor: pointer;
 `;
 
 export const ButtonContainer = styled.div`

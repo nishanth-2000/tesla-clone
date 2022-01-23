@@ -9,4 +9,13 @@ export {
   DownArrow,
   ButtonContainer,
 } from "./BodyElements";
-export { HeaderContainer, Menu, RightMenu, CustomMenu } from "./HeaderElements";
+export {
+  HeaderContainer,
+  Menu,
+  RightMenu,
+  CustomMenu,
+  NavMenu,
+  CustomCloseIcon,
+  CustomCloseWrap,
+  BacgroundBlurFilter,
+} from "./HeaderElements";
