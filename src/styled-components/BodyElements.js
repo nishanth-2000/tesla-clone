@@ -5,8 +5,8 @@ export const Wrap = styled.div`
   width: 100%;
   background-image: ${(props) =>
     props.bgImage
-      ? `url(/images/${props.bgImage})`
-      : `url(/images/model-s.jpg")`};
+      ? `url(images/${props.bgImage})`
+      : `url(images/model-s.jpg")`};
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -33,7 +33,7 @@ export default function Body({
             {rightBtnText && <RightButton>{rightBtnText} </RightButton>}
           </ButtonGroup>
         </Fade>
-        {index === 0 && <DownArrow src="/images/down-arrow.svg" />}
+        {index === 0 && <DownArrow src="images/down-arrow.svg" />}
       </ButtonContainer>
     </Wrap>
   );
