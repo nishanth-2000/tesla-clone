@@ -1,5 +1,4 @@
 # Check out the page here
-
 https://nishanth-2000.github.io/tesla-clone/
 
 ## Available Scripts
