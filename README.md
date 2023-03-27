@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Check out the page here
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://nishanth-2000.github.io/tesla-clone/
 
 ## Available Scripts
 
